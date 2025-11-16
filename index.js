@@ -13,8 +13,8 @@ console.log("Duolingo")
 
 // SECTION 3
 console.log("Q4. What's something you're really proud of but don't get to talk about often?")
-console.log(". . .")
+console.log("Applying early decision to Dartmouth, was very proud of my application and essays")
 
 console.log("Q5. If you could travel anywhere, where would you go?")
-console.log(". . .")
+console.log("Hanover, New Hampshire")
 // Commit here!
